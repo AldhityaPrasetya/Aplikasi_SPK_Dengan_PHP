@@ -1,4 +1,3 @@
-Aplikasi Sistem Pendukung Keputusan AHP Berbasis Web
 Metode Analitycal Hierarchy Process (Metode AHP) adalah sebuah metode dalam sistem pendukung kuputusan untuk memecahkan suatu masalah yang sangat komplek serta tidak terstruktur kedalam beberapa bagian komponen didalam susunan hirarki dengan memberi nilai yang subjektif tentang pentingnya bagi variabel secara relatif serta menetapkan variabel yang memiliki prioritas paling tinggi agar mempengaruhi result atau hasil pada masalah tersebut.
 
 Sistem utama Analitycal Hierarchy Process (Metode AHP) adalah memiliki hirarki fungsional dengan memiliki input utamanya yaitu persepsi manusia. Dengan adanya hirarki, suatu masalah yang kompleks serta tidak terstruktur dapat dipecahkan ke beberapa kelompok dan diatur menjadi sebuah hirarki.
